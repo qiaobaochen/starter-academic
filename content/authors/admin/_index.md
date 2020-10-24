@@ -14,7 +14,7 @@ role:Senior Data Engineer in TechFin
 
 # Organizations/Affiliations
 organizations:
-- name: TechFin Ltd.
+- name: TechFin Ltd
   url: "techfinance.cn"
 
 # Short bio (displayed in user profile at end of posts)
