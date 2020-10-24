@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:Senior Data Engineer in TechFin
+role: Senior Data Engineer in TechFin
 
 # Organizations/Affiliations
 organizations:
